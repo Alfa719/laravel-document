@@ -1,0 +1,15 @@
+.jumbotron {
+    margin-top: 40px;
+    height: 70vh;
+    color: whitesmoke;
+    background: linear-gradient(to bottom, #1b1131, #0e0e2e);
+}
+
+.title {
+    font-size: 16px;
+}
+
+.background {
+    background-color: #191941;
+    color: white;
+}
